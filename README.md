@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white" alt="Tensorflow" />
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch" />
+</div>
 <br>
 
 <!---
