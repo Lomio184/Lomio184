@@ -44,8 +44,8 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" />
   <img src="https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
-  <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
+  <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=white" alt="Notepad++" />
 </div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
