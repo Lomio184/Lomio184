@@ -4,7 +4,7 @@
 <h3 align="center">✨ Live Stats ✨</h3>
 
 ![Lomio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomio184&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomio184&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomio184&layout=default)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
