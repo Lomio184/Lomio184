@@ -32,6 +32,12 @@
 </div>
 <br>
 
+<h3 align="center">✨ Tools ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=Illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=Photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere-9999FF.svg?style=for-the-badge&logo=Premiere&logoColor=white" alt="Premiere" />
+</div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
