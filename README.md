@@ -1,13 +1,11 @@
 <div align="center">
   <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
-<text>
-- 👋 Hi, I’m @Lomio184
+<text>- 👋 Hi, I’m @Lomio184</text>
 - 👀 I’m interested in Network System and Multi Processing Programming
 - 🌱 I’m currently learning 802.11p Format on Automotive 
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me -> Just leave comment something
-</text>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
