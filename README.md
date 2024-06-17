@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=/>
+  <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
 - 👋 Hi, I’m @Lomio184
 - 👀 I’m interested in Network System and Multi Processing Programming
