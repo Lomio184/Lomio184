@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">✨ Live Stats ✨</h3>
 
-<div style="display: flex; space-between; width: 100%;">
+<div style="display: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=lomio184&show_icons=true&theme=radical" alt="Lomio's GitHub stats" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomio184&layout=compact&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=000000&border_radius=10" alt="Top Langs" width="38%" />
 </div>
