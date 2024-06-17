@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
-<br>- 👋 Hi, I’m @Lomio184</br>
-<br>- 👀 I’m interested in Network System and Multi Processing Programming</br>
-<br>- 🌱 I’m currently learning 802.11p Format on Automotive </br>
-<br>- 💞️ I’m looking to collaborate on someone</br>
-<br>- 📫 How to reach me -> Just leave comment something</br>
 ![Lomio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomio184&show_icons=true&theme=radical)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
