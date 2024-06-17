@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
-## GitHub Stats
-
+<h3 align="center">✨ Live Stats ✨</h3>
 ![Lomio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomio184&show_icons=true&theme=radical)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
