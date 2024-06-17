@@ -60,7 +60,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Software%20Architecture-02569B.svg?style=for-the-badge&color=02569B" alt="Software Architecture" />
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/DesisgnPattern-63FEE1.svg?style=for-the-badge&color=63FEE1" alt="DesisgnPattern" />
 </div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
