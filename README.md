@@ -2,10 +2,10 @@
   <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
 <h5>- 👋 Hi, I’m @Lomio184</h5>
-- 👀 I’m interested in Network System and Multi Processing Programming
-- 🌱 I’m currently learning 802.11p Format on Automotive 
-- 💞️ I’m looking to collaborate on someone
-- 📫 How to reach me -> Just leave comment something
+<h5>- 👀 I’m interested in Network System and Multi Processing Programming</h5>
+<h5>- 🌱 I’m currently learning 802.11p Format on Automotive </h5>
+<h5>- 💞️ I’m looking to collaborate on someone</h5>
+<h5>- 📫 How to reach me -> Just leave comment something</h5>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
