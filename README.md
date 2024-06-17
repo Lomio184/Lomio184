@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/VSC-007ACC.svg?style=for-the-badge&logo=VSC&logoColor=white" alt="VSC" />
-  <img src="https://img.shields.io/badge/VS-5C2D91.svg?style=for-the-badge&logo=VS&logoColor=white" alt="VS" />
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" />
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
   <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
