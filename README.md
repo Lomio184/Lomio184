@@ -37,6 +37,15 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=Illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=Photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Premiere-9999FF.svg?style=for-the-badge&logo=Premiere&logoColor=white" alt="Premiere" />
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=Excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSC-007ACC.svg?style=for-the-badge&logo=VSC&logoColor=white" alt="VSC" />
+  <img src="https://img.shields.io/badge/VS-5C2D91.svg?style=for-the-badge&logo=VS&logoColor=white" alt="VS" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
+  <img src="https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=Word&logoColor=white" alt="Word" />
 </div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
