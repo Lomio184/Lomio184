@@ -6,6 +6,7 @@
 <h5>- 🌱 I’m currently learning 802.11p Format on Automotive </h5>
 <h5>- 💞️ I’m looking to collaborate on someone</h5>
 <h5>- 📫 How to reach me -> Just leave comment something</h5>
+[![lomio184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lomio184)](https://github.com/Lomio184/github-readme-stats)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
