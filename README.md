@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 - 👋 Hi, I’m @Lomio184
 - 👀 I’m interested in Network System and Multi Processing Programming
 - 🌱 I’m currently learning 802.11p Format on Automotive 
