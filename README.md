@@ -5,7 +5,7 @@
 
 ![Lomio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lomio184&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomio184&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lomio184&layout=compact)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
