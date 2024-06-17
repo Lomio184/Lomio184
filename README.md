@@ -6,11 +6,10 @@
 <h5>- 🌱 I’m currently learning 802.11p Format on Automotive </h5>
 <h5>- 💞️ I’m looking to collaborate on someone</h5>
 <h5>- 📫 How to reach me -> Just leave comment something</h5>
-[![lomio184's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lomio184)](https://github.com/Lomio184/github-readme-stats)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/A8B9CC.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
