@@ -50,8 +50,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/GNOME Terminal-241F31.svg?style=for-the-badge&logo=GNOME Terminal&logoColor=white" alt="GNOME Terminal" />
 </div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
