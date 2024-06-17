@@ -64,6 +64,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/DesisgnPattern-63FEE1.svg?style=for-the-badge&color=63FEE1" alt="DesisgnPattern" />
+  <img src="https://img.shields.io/badge/RTOS-B1FE63.svg?style=for-the-badge&color=B1FE63" alt="RTOS" />
+  <img src="https://img.shields.io/badge/802.11bd-A863FE.svg?style=for-the-badge&color=A863FE" alt="802.11bd" />
+  <img src="https://img.shields.io/badge/DeepLearning-63FEE1.svg?style=for-the-badge&color=6375FE" alt="DeepLearning" />
+  <img src="https://img.shields.io/badge/ML-FE63D5.svg?style=for-the-badge&color=FE63D5" alt="ML" />
+  <img src="https://img.shields.io/badge/RL-5F0015.svg?style=for-the-badge&color=5F0015" alt="RL" />
 </div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
