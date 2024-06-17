@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Lomio184/Lomio184/blob/main/lomio_logo.gif"/>
 </div>
-<text>- 👋 Hi, I’m @Lomio184</text>
+<h5>- 👋 Hi, I’m @Lomio184</h5>
 - 👀 I’m interested in Network System and Multi Processing Programming
 - 🌱 I’m currently learning 802.11p Format on Automotive 
 - 💞️ I’m looking to collaborate on someone
