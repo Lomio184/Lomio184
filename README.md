@@ -79,12 +79,12 @@
 <br>
 <div align="center">
   <strong>Situation-Aware_Robust_Multi-Step_Prediction_of_Vehicle_Trajectory_with_Enhanced_Transformer</strong><br>
-  <strong>10th Anniversary Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS 2024)</strong>
+  <a>10th Anniversary Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS 2024)</a>
 </div>
 <br>
 <div align="center">
   <strong>Robust Long-Term Prediction of Vehicle Trajectory with Adaptive Link Projection</strong><br>
-  <strong>The 2nd ICMIC, 2023.08.23~25, Jeju Island, South Korea</strong>
+  <a>The 2nd ICMIC, 2023.08.23~25, Jeju Island, South Korea</a>
 </div>
 <br>
 <div align="center">
