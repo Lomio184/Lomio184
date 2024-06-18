@@ -71,7 +71,10 @@
   <img src="https://img.shields.io/badge/RL-5F0015.svg?style=for-the-badge&color=5F0015" alt="RL" />
 </div>
 
-<h3 align="left">🎓 Paper 🎓</h3>
+<h3 align="center">🎓 Paper 🎓</h3>
+<div align="center">
+  <a href="https://www.mdpi.com/1424-8220/24/8/2398" target="_blank">Robust Long-Term Vehicle Trajectory Prediction Using Link Projection and a Situation-Aware Transformer</a>
+</div>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
