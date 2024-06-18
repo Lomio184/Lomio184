@@ -77,7 +77,7 @@
   <strong>MDPI Sensors:2024.04</strong>
 </div>
 <div align="center">
-  <strong>Situation-Aware_Robust_Multi-Step_Prediction_of_Vehicle_Trajectory_with_Enhanced_Transformer</strong><br>
+  <strong>Situation-Aware_Robust_Multi-Step_Prediction_of_Vehicle_Trajectory_with_Enhanced_Transformer</strong><br><br>
   <strong>10th Anniversary Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS 2024)</strong>
 </div>
 <div align="center">
