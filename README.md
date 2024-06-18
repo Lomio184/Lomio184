@@ -73,7 +73,7 @@
 
 <h3 align="center">🎓 Paper 🎓</h3>
 <div align="center">
-  <a href="https://www.mdpi.com/1424-8220/24/8/2398" target="_blank">Robust Long-Term Vehicle Trajectory Prediction Using Link Projection and a Situation-Aware Transformer</a>
+  <a href="https://www.mdpi.com/1424-8220/24/8/2398" target="_blank">Robust Long-Term Vehicle Trajectory Prediction Using Link Projection and a Situation-Aware Transformer</a><br>
   <strong>MDPI Sensors:2024.04</strong>
 </div>
 <!---
