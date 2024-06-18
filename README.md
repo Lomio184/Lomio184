@@ -70,6 +70,8 @@
   <img src="https://img.shields.io/badge/ML-FE63D5.svg?style=for-the-badge&color=FE63D5" alt="ML" />
   <img src="https://img.shields.io/badge/RL-5F0015.svg?style=for-the-badge&color=5F0015" alt="RL" />
 </div>
+
+<h3 align="left">🎓 Paper 🎓</h3>
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
