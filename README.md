@@ -76,6 +76,17 @@
   <a href="https://www.mdpi.com/1424-8220/24/8/2398" target="_blank">Robust Long-Term Vehicle Trajectory Prediction Using Link Projection and a Situation-Aware Transformer</a><br>
   <strong>MDPI Sensors:2024.04</strong>
 </div>
+<div align="center">
+  <strong>Situation-Aware_Robust_Multi-Step_Prediction_of_Vehicle_Trajectory_with_Enhanced_Transformer</strong><br>
+  <strong>10th Anniversary Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS 2024)</strong>
+</div>
+<div align="center">
+</div>
+<div align="center">
+</div>
+<div align="center">
+</div>
+
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
