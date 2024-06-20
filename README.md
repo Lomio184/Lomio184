@@ -71,31 +71,6 @@
   <img src="https://img.shields.io/badge/RL-5F0015.svg?style=for-the-badge&color=5F0015" alt="RL" />
 </div>
 
-<h3 align="center">🎓 Paper 🎓</h3>
-<div align="center">
-  <a href="https://www.mdpi.com/1424-8220/24/8/2398" target="_blank">Robust Long-Term Vehicle Trajectory Prediction Using Link Projection and a Situation-Aware Transformer</a><br>
-  <strong>MDPI Sensors:2024.04</strong>
-</div>
-<br>
-<div align="center">
-  <strong>Situation-Aware_Robust_Multi-Step_Prediction_of_Vehicle_Trajectory_with_Enhanced_Transformer</strong><br>
-  <a>10th Anniversary Korea-Japan Joint Workshop on Complex Communication Sciences (KJCCS 2024)</a>
-</div>
-<br>
-<div align="center">
-  <strong>Robust Long-Term Prediction of Vehicle Trajectory with Adaptive Link Projection</strong><br>
-  <a>The 2nd ICMIC, 2023.08.23~25, Jeju Island, South Korea</a>
-</div>
-<br>
-<div align="center">
-  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583359" target="_blank">Julia 분산-병렬 모델을 이용한 K-Means 알고리즘 최적화</a><br>
-  <strong>한국정보과학회 2021 한국컴퓨터종합학술대회 논문집</strong>
-</div>
-<br>
-<div align="center">
-  <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10521877" target="_blank">시스템 프로그래밍 언어의 크기와 수행 성능 사이의 상관관계 분석을 위한 사례 연구</a><br>
-  <strong>2020년도 대한전자공학회 추계학술대회 논문집</strong>
-</div>
 
 <!---
 Lomio184/Lomio184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
